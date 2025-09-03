@@ -1,0 +1,27 @@
+projects:
+  - name: exiv2
+    url: https://github.com/Exiv2/exiv2/archive/refs/tags/*.tar.gz
+  - name: freetype
+    url: https://github.com/freetype/freetype/archive/refs/tags/*.tar.gz
+  - name: libexif
+    url: https://github.com/libexif/libexif/archive/refs/tags/*.tar.gz
+  - name: libexpat
+    url: https://github.com/libexpat/libexpat/archive/refs/tags/*.tar.gz
+  - name: liblouis
+    url: https://github.com/liblouis/liblouis/archive/refs/tags/*.tar.gz
+  - name: libming
+    url: https://github.com/libming/libming/archive/refs/tags/*.tar.gz
+  - name: libpng
+    url: https://github.com/pnggroup/libpng/archive/refs/tags/*.tar.gz
+  - name: libredwg
+    url: https://github.com/LibreDWG/libredwg/archive/refs/tags/*.tar.gz
+  - name: libxml2
+    url: https://github.com/GNOME/libxml2/archive/refs/tags/*.tar.gz
+  # - name: libxslt
+  #   url: https://github.com/winlibs/libxslt/archive/refs/tags/*.tar.gz
+  - name: openssl
+    url: https://github.com/openssl/openssl/archive/refs/tags/*.tar.gz
+  - name: tcpdump
+    url: https://github.com/the-tcpdump-group/tcpdump/archive/refs/tags/*.tar.gz
+  - name: libtiff
+    url: https://github.com/libsdl-org/libtiff/archive/refs/tags/*.tar.gz
